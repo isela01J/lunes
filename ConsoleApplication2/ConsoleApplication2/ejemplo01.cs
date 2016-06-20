@@ -10,6 +10,10 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            string  "cadena",
+                int 1=2,
+            public 
+
         }
     }
 }
